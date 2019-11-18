@@ -13,6 +13,6 @@ app.post('/weather', (req, res) => {
 
 })
 
-app.listen(300, () => {
+app.listen(3000, () => {
     console.log('Server running on port 3000')
 })
