@@ -1,6 +1,6 @@
 # Weather APP
 
-Is a example how to integrate DarkSky Weather API and the Google Places API in the same project.
+Is a example how to integrate DarkSky Weather API and the Google Places API.
 
 
 ## 📚 Materials/References:
